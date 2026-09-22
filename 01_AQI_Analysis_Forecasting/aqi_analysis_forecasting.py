@@ -178,3 +178,4 @@ else:
     print("Forecast chart saved.")
 
 print("\nDone.")
+output_folder.mkdir(exist_ok=True)
